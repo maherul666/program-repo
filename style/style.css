@@ -69,4 +69,18 @@
     background-color: #0D1321;
     color: #FFFFFF;
 }
-
+/* section why development */
+.study{
+    margin: 0px 150px 0px 150px;
+    padding: 0px 97px 0px 97px;
+}
+.cute-boy2{
+    padding: 48px;
+    /* display: flex;
+    justify-content: space-between;*/
+}
+.cute-boy2 img{
+    display: block;
+    
+    
+}
