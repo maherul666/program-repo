@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .azeret-mono-text1{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  /* nav bar */
+  .logo{
+    padding-left: 150px;
+    padding-top: 50px;
+    width: 128px;
+    height: 33px;
+    font-size: 28px;
+    color: #0D1321;
+  }
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+.first-btn{
+    margin-top: 50px;
+    margin-right: 150px;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    color: #0D1321;
+    border-width: .5px
+}
+/* header title img btn */
+.father-1{
+    margin-top: 130px;
+    
+}
+.cute-boy{
+    display: block;
+    margin: auto;
+}
+
