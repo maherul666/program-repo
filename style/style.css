@@ -32,11 +32,41 @@
 }
 /* header title img btn */
 .father-1{
-    margin-top: 130px;
+    margin-top: 40px;
+    background-image: url(../assets/Hero-bg.png);
+    
     
 }
 .cute-boy{
     display: block;
     margin: auto;
+}
+.child-1 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+.child-1 .hoping h1{
+    text-align: center;
+    padding-left: 210px;
+    padding-right: 210px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    font-weight: 800;
+}
+.child-1 .hoping p{
+    text-align: center;
+    padding-left: 210px;
+    padding-right: 210px;
+    padding-bottom: 35px;
+}
+/* adjust button */
+.child-1 .contact{
+    display: block;
+    margin: auto;
+    padding: 21px 24px 21px 24px;
+    border-radius: 8px;
+    background-color: #0D1321;
+    color: #FFFFFF;
 }
 
