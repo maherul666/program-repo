@@ -70,17 +70,34 @@
     color: #FFFFFF;
 }
 /* section why development */
-.study{
+section{
     margin: 0px 150px 0px 150px;
-    padding: 0px 97px 0px 97px;
+    padding: 80px 97px 0px 97px;
+    background-color: #0D1321, 2%;
 }
 .cute-boy2{
-    padding: 48px;
-    /* display: flex;
-    justify-content: space-between;*/
+    padding: 48px; 
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 16px;
 }
-.cute-boy2 img{
-    display: block;
-    
-    
+.study .web-h , .sac-p{
+    text-align: center;
+}
+.study .web-h{
+    font-weight:800;
+}
+.study .sac-p{
+    margin-top: 20px;
+}
+.cute-pappy{
+    margin-right: 95px ;
+}
+.btn-1st-div{
+    margin-top: 35px;
+    padding: 10px;
+    border-width: .5px;
+}
+.cute-pappy .h-2f{
+    font-weight: 800;
 }
