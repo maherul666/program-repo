@@ -101,3 +101,14 @@ section{
 .cute-pappy .h-2f{
     font-weight: 800;
 }
+.layere-2nd{
+    display: flex;
+    padding: 48px;
+}
+.text-p{
+    margin-left: 95px;
+
+}
+.cute-pappy .h-2f span{
+    color: #dc7323;
+}
