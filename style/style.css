@@ -164,3 +164,17 @@
     height: 40px;
     padding-bottom: 10px;
 }
+/* support section */
+.support {
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position:center ;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 300px;
+    margin: 20px auto;
+    border-radius: 16px;
+    text-align: center;
+    padding: 60px 40px 60px 40px;
+ } 
