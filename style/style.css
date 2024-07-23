@@ -208,4 +208,11 @@
     border-style: none;
 }
 /* footer and end */
-
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(13, 19, 33, 3%);
+    padding-top: 34px;
+    padding-bottom: 34px;
+    border-radius: 16px;
+}
