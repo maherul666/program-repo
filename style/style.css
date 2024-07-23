@@ -70,10 +70,10 @@
     color: #FFFFFF;
 }
 /* section why development */
-section{
+.maher{
     margin: 0px 150px 0px 150px;
     padding: 80px 97px 80px 97px;
-    background-color: #0D1321, 2%;
+    background-color: rgba(13, 19, 33, 2%);
 }
 .cute-boy2{
     padding: 48px; 
@@ -114,10 +114,53 @@ section{
 }
 /* ifram adding */
 .in-ifram{
-    margin: 0 120px 120px 120px;
+    margin: 0 120px 0px 120px;
 
 }
 .in-ifram .i-fm{
     align-items: center;
     text-align: center;
+}
+.in-ifram .f-2{
+    border-radius: 16px;
+}
+/* section target */
+.target .tx{
+    text-align: center;
+}
+.target .papa-2{
+    display: flex;
+    margin: 20px;
+}
+.papa-2 .baccha-1{
+    padding: 30px;
+    width: 360px;
+    height: 200px;
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 5%);
+    margin: 25px;
+    font-size: 15px;
+}
+.papa-2 .baccha-2{
+    padding: 30px;
+    width: 360px;
+    height: 200px;
+    border-radius: 16px;
+    background-color: rgba(0, 76, 232, 5%);
+    margin: 25px;
+    font-size: 15px;
+}
+.papa-2 .baccha-3{
+    padding: 30px;
+    width: 360px;
+    height: 200px;
+    border-radius: 16px;
+    background-color: rgba(255, 223, 0, 5%);
+    margin: 25px;
+    font-size: 15px;
+}
+.papa-2 .logo-1{
+    width: 40px;
+    height: 40px;
+    padding-bottom: 10px;
 }
